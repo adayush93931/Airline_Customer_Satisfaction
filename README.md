@@ -34,11 +34,7 @@ The primary objective of this project is to build an SVM model that accurately p
 
 ## Results
 - *Model Performance*:
-  - Accuracy: [Value]
-  - Precision: [Value]
-  - Recall: [Value]
-  - F1-Score: [Value]
-- *Confusion Matrix*: [Include a visualization if available]
+  - Accuracy: [61.95%]
 - *Insights*: Identified key drivers of passenger satisfaction, such as in-flight services and seat comfort.
 
 ## Challenges Faced
